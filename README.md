@@ -7,7 +7,7 @@ A small, lightweight emoji spinner built with plain HTML, CSS and JavaScript.
 
 <!-- Screenshot -->
 
-![Emoji Spinner Screenshot](images/screenshot.png)
+![Emoji Spinner Screenshot](screenshot.png)
 
 > If the screenshot doesn't appear, add a screenshot image at `images/screenshot.png` (recommended size: 800×450px). You can also replace the path above with your preferred image filename.
 
